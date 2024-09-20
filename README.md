@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, DialogfLow Django, NLP, and other skills...**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, DialogfLow Django, NLP, Quant and other skills...**
 
-- 👨‍💻 All of my projects are available at [GitHub Me]((https://github.com/DanieSalin))
+- 👨‍💻 All of my projects are available at [GitHub Me](https://github.com/DanieSalin?tab=repositories)
 
 - 📫 How to reach me dodat2004py@gmail.com
 
@@ -89,5 +89,5 @@
 </p>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="dist/github-snake.svg" alt="snake"/>
 </p>
