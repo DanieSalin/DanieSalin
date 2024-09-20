@@ -88,6 +88,8 @@
 <a href="https://instagram.com/daniel_do.mos10"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-<p align="center">
- <img width="1000" src="github-snake.svg" alt="github-snake"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
