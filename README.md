@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Machine+Learning;Deep+Learning;NLP;and+other+skills...&center=true&width=500&height=50">
 </p>
 <div align="center"><img width="200px" src="https://i.pinimg.com/originals/4c/5b/68/4c5b68bb6f2cadd738fa852f32188fd2.gif"/> </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=truongvanthong&label=Profile%20views&color=0e75b6&style=flat" alt="truongvanthong" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dotandat&label=Profile%20views&color=0e75b6&style=flat" alt="dotandat" /> </p>
 
 - 🔭 I’m currently working on [Django Smart Shopping](https://github.com/truongvanthong/Django_Smart_Shopping)
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub Me](https://github.com/truongvanthong?tab=repositories)
 
-- 📫 How to reach me truongvantthong@gmail.com
+- 📫 How to reach me dodat2004py@gmail.com
 
 
 <img id="optionalstuff" alt="Night Coding" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47dcj7w35th4zqt7w360lqh6ey885vmyw03om06wl3&rid=giphy.gif&ct=g" width=400px align="right"/>
@@ -74,8 +74,8 @@
 
 <p align="center">
 <a href="https://github.com/truongvanthong">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=truongvanthong&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="truongvanthong" height=150px/><img src="https://github-readme-stats.vercel.app/api?username=truongvanthong&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="truongvanthong" height=150px />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=truongvanthong&theme=nightowl&hide_border=true" alt="truongvanthong"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dotandat&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="dotandat" height=150px/><img src="https://github-readme-stats.vercel.app/api?username=dotandat&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="dotandat" height=150px />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dotandat&theme=nightowl&hide_border=true" alt="dotandat"/>
 </a>
 </p>
 
@@ -83,10 +83,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:truongvantthong@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/trương-văn-thông-b42021273"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/vianhlagio2307"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/vianhlagio2307"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:dodat2004py@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/dotandatdaniel"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/daniel_do.mos10"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <p align="center">
