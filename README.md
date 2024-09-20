@@ -70,7 +70,24 @@
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
+
+### 🤷 Experience
+<h2>WorldQuant BRAIN Consultant | WorldQuant BRAIN Vietnam <span style="float: right;">October 2023 — Present</span></h2>
+<!-- <p style="text-align: right;">Ho Chi Minh City, Vietnam</p> -->
+<ul>
+  <li>Developed predictive mathematical models (alphas) for financial instruments. Conducted simulations to refine models for optimal and sustainable performance. Utilized advanced quantitative financial models and analytical tools to create effective investment strategies.</li>
+  <li>Secured <strong>8th place</strong> in the IUH Alphathon 2023 competition held at the university.</li>
+  <li>Achieved <strong>63rd place</strong> globally in the SuperAlpha Competition 2024 Month 2 organized by WorldQuant.</li>
+  <li>Achieved a prestigious ranking in the Top 31 globally in the Merged Alpha Performance Competition 2024.</li>
+  <li>Translating ideas into mathematical models focused on systematic equity and statistical arbitrage.</li>
+  <li>Developed 300+ value-adding long-short neutral alphas across regions including the US, China, Korea, Japan, Asia, and Global.</li>
+  <li>Created uncorrelated, value-adding signals that enhance the existing alpha pool, achieving high merged Sharpe ratios, strong returns, and low drawdown, while maintaining optimal turnover and margin.</li>
+  <li>Diversified the alpha pool with high-quality signals to ensure strong out-of-sample (OS) and in-sample (IS) performance.</li>
+</ul>
+
+
 ### ⚙️ &nbsp;GitHub Analytics
+
 
 <p align="center">
 <a href="https://github.com/truongvanthong">
@@ -78,6 +95,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dotandat&theme=nightowl&hide_border=true" alt="dotandat"/>
 </a>
 </p>
+
 
 
 ### 🤝🏻 &nbsp;Connect with Me
