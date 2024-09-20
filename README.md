@@ -15,8 +15,7 @@
 - 📫 How to reach me dodat2004py@gmail.com
 
 
-
-<iframe src="https://giphy.com/embed/S4178TW2Rm1LW" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/natgeochannel-money-bills-S4178TW2Rm1LW">via GIPHY</a></p>
+<img id="optionalstuff" alt="https://giphy.com/embed/S4178TW2Rm1LW"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
