@@ -6,7 +6,7 @@
 <div align="center"><img width="200px" src="https://i.pinimg.com/originals/4c/5b/68/4c5b68bb6f2cadd738fa852f32188fd2.gif"/> </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dotandat&label=Profile%20views&color=0e75b6&style=flat" alt="dotandat" /> </p>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on WorldQuant Brain
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, DialogfLow Django, NLP, Quant and other skills...**
 
@@ -71,13 +71,13 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
 
-### 🤷 Experience
+### 🌏 Experience
 <h2>WorldQuant BRAIN Consultant | WorldQuant BRAIN Vietnam <span style="float: right;">October 2023 — Present</span></h2>
 <!-- <p style="text-align: right;">Ho Chi Minh City, Vietnam</p> -->
 <ul>
   <li>Developed predictive mathematical models (alphas) for financial instruments. Conducted simulations to refine models for optimal and sustainable performance. Utilized advanced quantitative financial models and analytical tools to create effective investment strategies.</li>
   <li>Translating ideas into mathematical models focused on systematic equity and statistical arbitrage.</li>
-  <li>Developed 300+ value-adding long-short neutral alphas across regions including the US, China, Korea, Japan, Asia, and Global.</li>
+  <li>Developed 300+ value-adding long-short neutral alphas across regions including the USA, China, Korea, Japan, Asia, HongKong, Europe, Taiwan, Region of the Americas and Global.</li>
   <li>Created uncorrelated, value-adding signals that enhance the existing alpha pool, achieving high merged Sharpe ratios, strong returns, and low drawdown, while maintaining optimal turnover and margin.</li>
   <li>Diversified the alpha pool with high-quality signals to ensure strong out-of-sample (OS) and in-sample (IS) performance.</li>
   <li>Secured <strong>8th place</strong> in the IUH Alphathon 2023 competition held at the university.</li>
