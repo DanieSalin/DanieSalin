@@ -6,11 +6,11 @@
 <div align="center"><img width="200px" src="https://i.pinimg.com/originals/4c/5b/68/4c5b68bb6f2cadd738fa852f32188fd2.gif"/> </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dotandat&label=Profile%20views&color=0e75b6&style=flat" alt="dotandat" /> </p>
 
-- 🔭 I’m currently working on [Django Smart Shopping](https://github.com/truongvanthong/Django_Smart_Shopping)
+- 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, DialogfLow Django, NLP, and other skills...**
 
-- 👨‍💻 All of my projects are available at [GitHub Me](https://github.com/truongvanthong?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub Me]((https://github.com/DanieSalin))
 
 - 📫 How to reach me dodat2004py@gmail.com
 
