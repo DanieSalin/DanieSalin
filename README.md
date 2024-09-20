@@ -15,7 +15,7 @@
 - 📫 How to reach me dodat2004py@gmail.com
 
 
-<img id="optionalstuff" alt="coding" src="https://giphy.com/embed/S4178TW2Rm1LW"/>
+<img id="optionalstuff" alt="coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdxeGtjaml1bDFsbGRuZzQ5MGI1cGdzdW1pZmg5emF6Z2cwNnd2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S4178TW2Rm1LW/giphy.gif"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
