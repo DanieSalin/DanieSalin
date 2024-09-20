@@ -15,7 +15,7 @@
 - 📫 How to reach me dodat2004py@gmail.com
 
 
-<img  id="optionalstuff" alt="coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzU2dXZ4bzN1dmJ5cGd1eWlta2Zqc2k4eXVsdjN6MzlyY2tieGh3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.gif&center=true&width=500&height=50&width=500&height=50" />
+<img width="200px" id="optionalstuff" alt="coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzU2dXZ4bzN1dmJ5cGd1eWlta2Zqc2k4eXVsdjN6MzlyY2tieGh3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.gif"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
