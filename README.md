@@ -49,7 +49,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Mongo DB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-
+ 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
