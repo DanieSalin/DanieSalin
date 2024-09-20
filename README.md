@@ -15,7 +15,7 @@
 - 📫 How to reach me dodat2004py@gmail.com
 
 
-<img id="optionalstuff" alt="Night Coding" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47dcj7w35th4zqt7w360lqh6ey885vmyw03om06wl3&rid=giphy.gif&ct=g" width=400px align="right"/>
+<img id="optionalstuff" alt="Night Coding" src="https://giphy.com/embed/S4178TW2Rm1LW" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/natgeochannel-money-bills-S4178TW2Rm1LW" width=400px align="right"/>
 
 
 ### 🛠 &nbsp;Tech Stack
