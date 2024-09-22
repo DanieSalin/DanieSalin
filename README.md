@@ -15,7 +15,7 @@
 - 📫 How to reach me dodat2004py@gmail.com
 
 
-<img align="right" width="400px" height = "350px" id="optionalstuff" alt="coding" src="https://giphy.com/gifs/pudgypenguins-keyboard-typing-infinex-i229PTC8BKt9V9RnwZ"/>
+<img align="right" width="400px" height = "350px" id="optionalstuff" alt="coding" src="https://giphy.com/gifs/pudgypenguins-keyboard-typing-infinex-i229PTC8BKt9V9RnwZ/giphy.gif"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
