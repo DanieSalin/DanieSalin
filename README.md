@@ -113,6 +113,6 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture> -->
 
-<p align="center">
+<!--- <p align="center">
  <img width="1000" src="/assets/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
+</p> -->
