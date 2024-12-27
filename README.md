@@ -107,8 +107,12 @@
 <a href="https://instagram.com/daniel_do.mos10"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-<picture>
+<!--- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
-</picture>
+</picture> -->
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
