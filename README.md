@@ -114,5 +114,5 @@
 </picture> -->
 
 <p align="center">
- <img width="1000" src="github-snake-dark.svg" alt="snake"/>
+ <img width="1000" src="assets/github-snake-dark.svg" alt="snake"/>
 </p>
