@@ -82,6 +82,7 @@
   <li>Secured <strong>8th place</strong> in the IUH Alphathon 2023 competition held at the university.</li>
   <li>Achieved <strong>63rd place</strong> globally in the SuperAlpha Competition 2024 Month 2 organized by WorldQuant.</li>
   <li>Achieved a prestigious ranking in the <strong>Top 31</strong> globally and <strong>Top 10</strong> nationally in the Merged Alpha Performance Competition 2024.</li>
+  <li>Achieved a prestigious ranking in the <strong> Top 14</strong> globally and <strong>Top 4</strong> nationally in the ATOM competition 2024.</li>
   
 </ul>
 
