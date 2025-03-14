@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! This is Do Tan Dat 👋</h1>
 <p align="center">
   <!-- Data Analyst, Machine Learning, Deep Learning, NLP, and other skills... -->
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Machine+Learning;Deep+Learning;NLP;and+other+skills...&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Quantitative+Researcher;Data+Analyst;Machine+Learning;Deep+Learning;NLP;and+other+skills...&center=true&width=500&height=50">
 </p>
 <div align="center"><img width="200px" src="https://i.pinimg.com/originals/4c/5b/68/4c5b68bb6f2cadd738fa852f32188fd2.gif"/> </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dotandat&label=Profile%20views&color=0e75b6&style=flat" alt="dotandat" /> </p>
